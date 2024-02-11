@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sompi-engineer
 - 👀 I’m interested in Python and Robot Framework
-- 🌱 I’m currently learning Robot Framework, mostly Selenium library
-- 📫 How to reach me, just send me a meassage in here GitHub
+- 🌱 I’m currently learning Robot Framework, mostly Selenium, Browser and Requests libraries
+- 📫 How to reach me, just send me a message in here GitHub
 - 😄 Pronouns: Robot...
 - ⚡ Fun fact: There's nothing funny here...
 
